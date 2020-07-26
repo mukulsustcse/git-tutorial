@@ -4,8 +4,8 @@ public class Hello {
         System.out.println("Git is awesome");
 
         greeting("MUKUL");
-        int p = sqr(4);
-        System.out.println(p);
+        
+        System.out.println("Square value of 4 is: "+ sqr(4));
     }
 
     public static void greeting(String name) {
