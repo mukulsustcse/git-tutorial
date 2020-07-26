@@ -3,13 +3,9 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("Git is awesome");
 
-<<<<<<< HEAD
-        greeting("Git");
-=======
         greeting("MUKUL");
         
         System.out.println("Square value of 4 is: "+ sqr(4));
->>>>>>> A
     }
 
     public static void greeting(String name) {
